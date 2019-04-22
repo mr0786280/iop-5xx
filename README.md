@@ -14,4 +14,11 @@ Version 1.0.0.0
 	merge branch: update-favicons
 		- generate favorite icons package (https://realfavicongenerator.net/)
 		- updated title to iop-5xx | Monica Romero
+		
+<--->
+
+!! Boilerplate Branch !!
+
+	Boilerplate branch is to keep any of the files from the master branch as a copy in case they are needed, before it's merged with 500.0
 	
+<--->
