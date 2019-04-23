@@ -1,9 +1,11 @@
 # iop-5xx
 
 WEB-240-3241 Responsive Design i
-iop-5xx Production: iop-5xx.catchthesehands.net
+iop-5xx Production: https://iop-5xx.catchthesehands.net
 
 master branch for 5xx: https://mr0786280.github.io/iop-5xx/
+
+wordpress iop-me site: http://me.catchthesehands.net
 
 
 Preparing project for development
