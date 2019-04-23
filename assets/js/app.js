@@ -9,7 +9,7 @@ window.onload = getContent();
 function getContent() {
     $.ajax({
         method: 'GET',
-        url: 'http://me.catchthesehands.net/wp-json/wp/v2/pages/?parent=' + parentPageID + '&order=asc&orderby=menu_order',
+        url: 'https://me.catchthesehands.net/wp-json/wp/v2/pages/?parent=' + parentPageID + '&order=asc&orderby=menu_order',
         dataType: 'json',
         success: function (data) {
             if (data.length > 0) {
