@@ -1,6 +1,6 @@
 // inside out project STEP-502
 
-$("body").prepend('<div class=text-white style=position:fixed;top:0;bottom:0;width:100%;z-index:99999999;padding-top:12%;background-color:rgba(87,87,87,.95);" id="cover-page"><div id="cover-page-con" class="container text-center"style="opacity:100%;"><img alt="Monica Romero"class="img-fluid rounded-circle"src=http://via.placeholder.com/150x150><h1>Monica Romero</h1><p class=lead>...inspired innovative technology leader & follower.<p class=lead style=font-size:80%><i class="fa-1x fa-cog fa-spin fas"></i> we are preparing your experiance now...</div></div>');
+$("body").prepend('<div class=text-white style=position:fixed;top:0;bottom:0;width:100%;z-index:99999999;padding-top:12%;background-color:rgba(87,87,87,.95);" id="cover-page"><div id="cover-page-con" class="container text-center"style="opacity:100%;"><img alt="Monica Romero"class="img-fluid rounded-circle"src="https://66.media.tumblr.com/0971cc2cd6bdc52f030b134e0110930a/tumblr_pa5ziywtqB1xnwd38o6_250.png"><h1>Monica Romero</h1><p class=lead>...inspired innovative technology leader & follower.<p class=lead style=font-size:80%><i class="fa-1x fa-cog fa-spin fas"></i> we are preparing your experiance now...</div></div>');
 
 var parentPageID = 117;
 
